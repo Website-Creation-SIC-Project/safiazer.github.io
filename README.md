@@ -6,7 +6,7 @@
 Install the dependencies...
 
 ```bash
-cd essec-project
+cd website-creation-sic-project.github.io
 npm install
 ```
 
@@ -28,6 +28,9 @@ To create an optimised version of the app:
 
 ```bash
 npm run build
+
+The files in public folder are up to date, then, you have to copy all this files to docs folder.
+After that, push to github.
 ```
 
 You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
