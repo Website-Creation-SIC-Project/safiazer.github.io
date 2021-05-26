@@ -5,11 +5,12 @@
 
 Install the dependencies...
 
+```bash
 cd essec-project
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
+...then start
 
 ```bash
 npm run dev
