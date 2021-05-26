@@ -64,8 +64,4 @@
   .round-border {
     border-radius: 20px !important;
   }
-  .wave-img {
-    width: 100%;
-    height: auto;
-  }
 </style>
